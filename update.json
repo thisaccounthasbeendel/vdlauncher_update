@@ -1,0 +1,12 @@
+{
+  "alpha": [
+    {
+      "versionName": "2.3.0-alpha",
+      "buildNumber": "315",
+      "commitHash": "22d78a5",
+      "releaseDate": "2026-03-14",
+      "apk": "https://github.com/thisaccounthasbeendel/vdlauncher_update/releases/download/VDLauncher-2.3.0-alpha-22d78a5-b313/VDLauncher-2.3.0-alpha-22d78a5-b313.apk",
+      "changelog": "Тест"
+    }
+  ]
+}
