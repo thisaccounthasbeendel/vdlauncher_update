@@ -7,6 +7,14 @@
       "releaseDate": "2026-03-17",
       "apk": "https://github.com/thisaccounthasbeendel/vd_launcher_update/releases/download/alpha/VDLauncher-2.3.0-alpha-22d78a5-b338.apk",
       "changelog": "Добавлена система обновлений"
+    },
+    {
+      "versionName": "2.3.0-alpha",
+      "buildNumber": "33d",
+      "commitHash": "22d78a5",
+      "releaseDate": "2026-03-17",
+      "apk": "https://github.com/thisaccounthasbeendel/vdlauncher_update/releases/download/alpha-22d78a5-b33d/VDLauncher-2.3.0-alpha-22d78a5-b33d.apk",
+      "changelog": "Новый дизайн кнопки 'обновить'"
     }
   ]
 }
