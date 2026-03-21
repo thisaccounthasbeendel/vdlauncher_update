@@ -6,7 +6,10 @@
       "commitHash": "22d78a5",
       "releaseDate": "2026-03-17",
       "apk": "https://github.com/thisaccounthasbeendel/vd_launcher_update/releases/download/alpha/VDLauncher-2.3.0-alpha-22d78a5-b338.apk",
-      "changelog": "Добавлена система обновлений"
+      "changelog": {
+        "ru": ["**Новое:**\n\n", "- Добавлена система обновлений\n"],
+        "en": ["**New:**\n\n", "- Update system added\n"]
+      }
     },
     {
       "versionName": "2.3.0-alpha",
@@ -14,7 +17,10 @@
       "commitHash": "22d78a5",
       "releaseDate": "2026-03-17",
       "apk": "https://github.com/thisaccounthasbeendel/vdlauncher_update/releases/download/alpha-22d78a5-b33d/VDLauncher-2.3.0-alpha-22d78a5-b33d.apk",
-      "changelog": "Новый дизайн кнопки 'обновить'"
+      "changelog": {
+        "ru": ["**Улучшено:**\n\n", "- Новый дизайн кнопки «Обновить»\n"],
+        "en": ["**Improved:**\n\n", "- New design for the 'Update' button\n"]
+      }
     },
     {
       "versionName": "2.3.0-alpha",
@@ -22,7 +28,22 @@
       "commitHash": "22d78a5",
       "releaseDate": "2026-03-18",
       "apk": "https://github.com/thisaccounthasbeendel/vdlauncher_update/releases/download/2.3.0-alpha-22d78a5-b354/VDLauncher-2.3.0-alpha-22d78a5-b354.apk",
-      "changelog": "Улучшена система обновлений. Добавлено окно уведомление причины при неудачной установке обновления. Мелкие правки в проекте"
+      "changelog": {
+        "ru": [
+          "**Улучшено:**\n\n",
+          "- Система обновлений\n",
+          "- Добавлено окно с причиной при неудачной установке обновления\n\n",
+          "**Прочее:**\n\n",
+          "- Мелкие правки в проекте\n"
+        ],
+        "en": [
+          "**Improved:**\n\n",
+          "- Update system\n",
+          "- Added error reason dialog on failed install\n\n",
+          "**Other:**\n\n",
+          "- Minor fixes\n"
+        ]
+      }
     },
     {
       "versionName": "2.3.0-alpha",
@@ -30,7 +51,10 @@
       "commitHash": "22d78a5",
       "releaseDate": "2026-03-18",
       "apk": "https://github.com/thisaccounthasbeendel/vdlauncher_update/releases/download/2.3.0-alpha-22d78a5-b356/VDLauncher-2.3.0-alpha-22d78a5-b356.apk",
-      "changelog": "Мелкие изменения, тестирование изменений"
+      "changelog": {
+        "ru": ["**Прочее:**\n\n", "- Мелкие изменения, тестирование\n"],
+        "en": ["**Other:**\n\n", "- Minor changes, testing\n"]
+      }
     },
     {
       "versionName": "2.3.0-alpha",
@@ -38,7 +62,20 @@
       "commitHash": "22d78a5",
       "releaseDate": "2026-03-21",
       "apk": "https://github.com/thisaccounthasbeendel/vdlauncher_update/releases/download/2.3.0-alpha-22d78a5-b3bb/VDLauncher-2.3.0-alpha-22d78a5-b3bb.apk",
-      "changelog": "Реализован горизонтальный док. Исправлено перемещение пресетов и рокировка(была проблема рассинхрона настроек пресетов и самого дока)"
+      "changelog": {
+        "ru": [
+          "**Новое:**\n\n",
+          "- Горизонтальный режим дока\n\n",
+          "**Исправлено:**\n\n",
+          "- Перемещение пресетов и рокировка (рассинхрон настроек и дока)\n"
+        ],
+        "en": [
+          "**New:**\n\n",
+          "- Horizontal dock mode\n\n",
+          "**Fixed:**\n\n",
+          "- Preset reordering and swap (dock and settings were out of sync)\n"
+        ]
+      }
     }
   ]
 }
