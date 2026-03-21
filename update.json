@@ -31,6 +31,14 @@
       "releaseDate": "2026-03-18",
       "apk": "https://github.com/thisaccounthasbeendel/vdlauncher_update/releases/download/2.3.0-alpha-22d78a5-b356/VDLauncher-2.3.0-alpha-22d78a5-b356.apk",
       "changelog": "Мелкие изменения, тестирование изменений"
+    },
+    {
+      "versionName": "2.3.0-alpha",
+      "buildNumber": "3bb",
+      "commitHash": "22d78a5",
+      "releaseDate": "2026-03-21",
+      "apk": "https://github.com/thisaccounthasbeendel/vdlauncher_update/releases/download/2.3.0-alpha-22d78a5-b3bb/VDLauncher-2.3.0-alpha-22d78a5-b3bb.apk",
+      "changelog": "Реализован горизонтальный док. Исправлено перемещение пресетов и рокировка(была проблема рассинхрона настроек пресетов и самого дока)"
     }
   ]
 }
