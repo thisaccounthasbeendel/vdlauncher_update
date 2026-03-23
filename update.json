@@ -76,6 +76,31 @@
           "- Preset reordering and swap (dock and settings were out of sync)\n"
         ]
       }
+    },
+    {
+  "versionName": "2.3.1-alpha",
+  "buildNumber": "450",
+  "commitHash": "8f2d4e1",
+  "releaseDate": "2026-03-23",
+  "apk": "https://github.com/thisaccounthasbeendel/vdlauncher_update/releases/download/2.3.0-alpha-22d78a5-b450/VDLauncher-2.3.0-alpha-22d78a5-b450.apk",
+  "changelog": {
+    "ru": [
+      "**Новое:**\n\n",
+      "- Добавлены режимы горизонтального дока и вертикального сплита (настройки в соответствующих разделах)\n",
+      "- Добавлена возможность скрыть полосу навигации\n\n",
+      "**Улучшения:**\n\n",
+      "- Обновлен дизайн системы обновлений\n",
+      "- Добавлена поддержка Markdown в списке изменений\n"
+    ],
+    "en": [
+      "**New:**\n\n",
+      "- Implemented horizontal dock and vertical split modes (configurable in respective settings sections)\n",
+      "- Added option to hide the navigation bar\n\n",
+      "**Improvehttps://github.com/thisaccounthasbeendel/vdlauncher_update/releases/download/2.3.0-alpha-22d78a5-b450/VDLauncher-2.3.0-alpha-22d78a5-b450.apkments:**\n\n",
+      "- Redesigned the update system interface\n",
+      "- Added basic Markdown support for the changelog text\n"
+    ]
+  }
     }
   ]
 }
