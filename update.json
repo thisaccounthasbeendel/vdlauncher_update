@@ -101,33 +101,6 @@
           "- Added basic Markdown support for the changelog text\n"
         ]
       }
-    },
-    {
-      "versionName": "2.3.0-alpha",
-      "buildNumber": "484",
-      "commitHash": "22d78a5",
-      "releaseDate": "2026-03-25",
-      "apk": "https://github.com/thisaccounthasbeendel/vdlauncher_update/releases/download/2.3.0-alpha-22d78a5-b484/VDLauncher-2.3.0-alpha-22d78a5-b484.apk",
-      "changelog": {
-        "ru": [
-          "**Новое:**\n\n",
-          "- Добавлен скрываемый док\n",
-          "**Улучшения:**\n\n",
-          "- Улучшено поведение скрываемого дока в горизонтальном и вертикальном режимах\n",
-          "- Исправлено позиционирование и размеры зоны свайпа для скрываемого дока\n",
-          "- Улучшен пересчет Expand Indicators при смене ориентации, режима дока, масштаба интерфейса и других layout-изменениях\n",
-          "- Скорректированы отступы и резервирование пространства для горизонтального дока\n"
-        ],
-        "en": [
-          "**New:**\n\n",
-          "- Added a hideable dock\n",
-          "**Improvements:**\n\n",
-          "- Improved hideable dock behavior in both horizontal and vertical modes\n",
-          "- Fixed positioning and sizing of the swipe area for the hideable dock\n",
-          "- Improved Expand Indicators refresh when changing orientation, dock mode, UI scale, and other layout-related states\n",
-          "- Adjusted spacing and reserved layout space for the horizontal dock\n"
-        ]
-      }
     }
   ]
 }
