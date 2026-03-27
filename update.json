@@ -128,6 +128,45 @@
           "- Adjusted spacing and reserved layout space for the horizontal dock\n"
         ]
       }
+    },
+    {
+      "versionName": "2.3.0-alpha",
+      "buildNumber": "49f",
+      "commitHash": "22d78a5",
+      "releaseDate": "2026-03-27",
+      "apk": "https://github.com/thisaccounthasbeendel/vdlauncher_update/releases/download/2.3.0-alpha-22d78a5-b49f/VDLauncher-2.3.0-alpha-22d78a5-b49f.apk",
+      "changelog": {
+        "ru": [
+          "**Новое:**\n\n",
+          "  **Листик приложений:**\n\n",
+          "  - Добавлено закрытие BottomSheet по нажатию вне листа и по нажатию на верхний индикатор (свайп также доступен)\n\n",
+          "**Улучшения:**\n\n",
+          "  **Листик приложений:**\n\n",
+          "  - Улучшено поведение бокового списка приложений: размер панели теперь корректно адаптируется под содержимое\n",
+          "  - Исправлена горизонтальная прокрутка в боковом режиме при большом количестве приложений\n",
+          "  - Исправлено выравнивание приложений в боковом режиме для неполных колонок\n",
+          "  - При открытии списка скрывается только индикатор активного слота, индикатор второго слота сохраняется\n\n",
+          "  **Автоплей:**\n\n",
+          "  - Повышена стабильность автоплея при запуске приложений\n",
+          "  - Устранены лишние повторные команды воспроизведения при уже активной музыке\n",
+          "  - Исправлено поведение ползунка задержки автоплея: итоговое значение корректно фиксируется по делениям при сохранении плавного перемещения\n"
+        ],
+        "en": [
+          "**New:**\n\n",
+          "  **App Sheet:**\n\n",
+          "  - Added BottomSheet close on outside tap and top indicator tap (swipe remains available)\n\n",
+          "**Improvements:**\n\n",
+          "  **App Sheet:**\n\n",
+          "  - Improved side app list behavior: panel size now adapts correctly to its content\n",
+          "  - Fixed horizontal scrolling in side mode when many apps are shown\n",
+          "  - Fixed app alignment in side mode for incomplete columns\n",
+          "  - Opening the list now hides only the active slot indicator while keeping the opposite slot indicator visible\n\n",
+          "  **Autoplay:**\n\n",
+          "  - Improved autoplay stability when launching apps\n",
+          "  - Removed redundant repeated playback commands when media is already playing\n",
+          "  - Fixed autoplay delay slider behavior: final value now snaps correctly to ticks while preserving smooth drag motion\n"
+        ]
+      }
     }
   ]
 }
