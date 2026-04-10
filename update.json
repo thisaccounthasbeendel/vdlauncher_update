@@ -167,6 +167,34 @@
           "  - Fixed autoplay delay slider behavior: final value now snaps correctly to ticks while preserving smooth drag motion\n"
         ]
       }
+    },
+    ,
+    {
+      "versionName": "2.3.0-alpha",
+      "buildNumber": "51f",
+      "commitHash": "22d78a5",
+      "releaseDate": "2026-03-31",
+      "apk": "https://github.com/thisaccounthasbeendel/vdlauncher_update/releases/download/2.3.0-alpha-22d78a5-b51f/VDLauncher-2.3.0-alpha-22d78a5-b51f.apk",
+      "changelog": {
+        "ru": [
+          "**Новое:**\n\n",
+          "  **Док:**\n\n",
+          "  - Добавлено автоскрытие и настройка его таймера\n\n",
+          "**Улучшения:**\n\n",
+          "  **Док:**\n\n",
+          "  - Доработана область свайпа для открытия скрытого дока, теперь она на всю высоту экрана, так гораздо удобнее, та-же процедура проделана и в оверлее дока\n",
+          "  - Переименован переключатель вертикального экрана. Теперь по умолчанию всегда вертикальный сплит, то есть для обычных экранов\n"
+        ],
+        "en": [
+          "**New:**\n\n",
+          "  **Dock:**\n\n",
+          "  - Added auto-hide and its timer configuration\n\n",
+          "**Improvements:**\n\n",
+          "  **Dock:**\n\n",
+          "  - Improved the swipe area for opening the hidden dock — it now spans the full height of the screen, making it much more convenient; the same change has been applied to the dock overlay\n",
+          "  - Renamed the vertical screen toggle. Now the vertical split is enabled by default, i.e., for standard screens\n"
+        ]
+      }
     }
   ]
 }
