@@ -197,10 +197,10 @@
     },
     {
       "versionName": "3.0.0-alpha",
-      "buildNumber": "1",
+      "buildNumber": "2",
       "commitHash": "47b5bb9",
       "releaseDate": "2026-04-22",
-      "apk": "https://github.com/thisaccounthasbeendel/vdlauncher_update/releases/download/3.0.0-alpha-47b5bb9-b1/VDLauncher-3.0.0-alpha-47b5bb9-b1.apk",
+      "apk": "https://github.com/thisaccounthasbeendel/vdlauncher_update/releases/download/3.0.0-alpha-47b5bb9-b2/VDLauncher-3.0.0-alpha-47b5bb9-b2.apk",
       "changelog": {
         "ru": [
           "**Новое:**\n\n",
